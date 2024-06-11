@@ -4,11 +4,11 @@ I am Logan Lilley and I am a tech enthusiast.
 
 ### Why I Made This
 
-I am currently studying cybersecurity and looking to start my career in that industry. In the meantime I am entertaining myself with random technical projects such as this and my online resume which can be found with this link [Online Resume](https://logan-l1.github.io/online_resume/). Also working on cybersecurity projects to demostrate my skills.
+I have recently graduated with a bachelor's cybersecurity degree graduate and I am looking to start my career in that industry. In the meantime I am entertaining myself with random technical projects such as this and my online resume which can be found with this link [Online Resume](https://logan-l1.github.io/online_resume/). Also working on cybersecurity projects to demonstrate my skills.
 
 ### Other Technical Hobbies
 
-Other then cybersecurity I am very interested in trading stocks and forex and have created bots to trade automaticlly. I have worked with python to create a bot that worked with Broker Alpaca's API. I have also created forex trading bots using MetaTrader 4 and 5 using its coding languages MQL4 and MQL5.
+Other then cybersecurity I am very interested in trading stocks and forex and have created bots to trade automatically. I have worked with python to create a bot that worked with Broker Alpaca's API. I have also created forex trading bots using MetaTrader 4 and 5 using its coding languages MQL4 and MQL5.
 
 ### Get In Touch With Me
 
